@@ -4,6 +4,10 @@
 
 - Bourne Shell 自習テキストに関する課題発表
 
+- Cloud9 使いましょう (資料は Rails Tutorial にて)
+ - [第1章 ゼロからデプロイまで](http://railstutorial.jp/chapters/beginning?version=4.2#cha-beginning)
+
+
 - rvm, ruby, rails 導入
  - [開発環境設定資料](https://github.com/DevelopmentPractice201308/material/blob/master/installation.md)
  - http://blog.opensquare.jp/?p=1667
