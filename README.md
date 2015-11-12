@@ -4,7 +4,11 @@
 
 - Bourne Shell 自習テキストに関する課題発表
 
-- Cloud9 使いましょう (資料は Rails Tutorial にて)
+- 環境設定 (Rail4 の場合)
+ -[さっそく動作させる](http://railstutorial.jp/chapters/beginning?version=4.0#sec-up_and_running)
+
+
+- Cloud9 使う場合 (Rails4.2 の場合) (資料は Rails Tutorial にて)
  - [第1章 ゼロからデプロイまで](http://railstutorial.jp/chapters/beginning?version=4.2#cha-beginning)
 
 
