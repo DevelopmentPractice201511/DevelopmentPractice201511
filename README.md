@@ -1,5 +1,14 @@
 # プログラミング演習講義メモ
 
+## 第五回 (2015.11.20) 3 コマ
+
+- Git および Github 演習
+
+ - [Git Handson](https://github.com/yamanetoshi/Git-Handson/blob/master/tutorial.md)
+ - [Git でやり直す方法](https://github.com/yamanetoshi/Git-Handson/blob/master/retry.md)
+
+- ssh 鍵の作成と GitHub への登録など
+
 ## 第四回 (2015.11.16) 2 コマ
 
 - vimtutor 演習
