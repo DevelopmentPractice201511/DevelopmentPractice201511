@@ -17,6 +17,16 @@
  - http://blog.opensquare.jp/?p=1667
  - http://blog.sudobits.com/2012/05/02/how-to-install-ruby-on-rails-in-ubuntu-12-04-lts/
 
+### 不具合対処について
+
+```
+Could not find a JavaScript runtime. See https://github.com/sstephenson/execjs for a list of available runtimes.
+```
+
+というエラーが出る場合、以下コンテンツの記述に沿って対処してみてください。
+
+- [Rails実行しようとしたらExecjsがどうとか…](http://qiita.com/timadayon/items/21201378bbb6034c9edb)
+
 
 ## 第二回 (2015.11.11) 2 コマ
 
