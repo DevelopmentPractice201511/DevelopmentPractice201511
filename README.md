@@ -1,5 +1,22 @@
 # プログラミング演習講義メモ
 
+## 第四回 (2015.11.16) 2 コマ
+
+- vimtutor 演習
+
+以下のコマンドを実行する必要があります (最初のみ)。
+
+```
+$ sudo apt-get remove vim-common
+$ sudo apt-get install vim vim-runtime
+```
+
+vim チュートリアルの起動については以下。
+
+```
+$ vimtutor ja
+```
+
 ## 第三回 (2015.11.13) 3 コマ
 
 - Bourne Shell 自習テキストに関する課題発表
