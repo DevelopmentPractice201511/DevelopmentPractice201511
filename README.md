@@ -1,5 +1,39 @@
 # プログラミング演習講義メモ
 
+## 第六回 (2015.11.25) 4 コマ
+
+### グループ課題
+
+以下のいずれか (それ以外でも良い) についてグループで一つテーマを決めて調査や動作確認などを行なってみてください。
+
+- Cloud9 で RoR チュートリアル
+- PocketProgramming (http://weekly.ascii.jp/elem/000/000/376/376045/)
+- javascript http://iphone-kamisama.com/javascript-nyuumon
+- bash 自習テキスト
+- vimtutor
+- GIt, Github
+
+確認した結果などについては別途時間を設けて発表してもらいます。
+
+### 発表用資料
+
+以下にグループ向けのリポジトリを作成してください。
+
+- https://github.com/DevelopmentPractice201511
+
+README.md というファイルを作成して、markdown で発表用のスライドを作成してください。
+
+グループは 4 名で 1 セットとします。
+
+### テーマ
+
+決めて連絡を下さい。
+
+### フォロー
+
+マージの方法や markdown についてはフォローの時間を確保します。
+
+
 ## 第五回 (2015.11.20) 3 コマ
 
 - Git および Github 演習
