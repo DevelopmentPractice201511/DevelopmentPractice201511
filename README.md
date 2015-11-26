@@ -10,6 +10,15 @@
 
 - 各グループの持ち時間は 30 分
 
+### テーマ
+
+- 6 cloud9 でチュートリアル
+- 5 javascript
+- 4 java
+- 3 vim について
+- 2 javascript
+- 1 cofeescript
+
 ## 第六回 (2015.11.25) 4 コマ
 
 ### グループ課題
