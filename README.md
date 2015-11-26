@@ -17,7 +17,7 @@
 - 4 java
 - 3 vim について
 - 2 javascript
-- 1 cofeescript
+- 1 coffeescript
 
 ## 第六回 (2015.11.25) 4 コマ
 
