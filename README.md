@@ -6,6 +6,12 @@
 
 - [Rails チュートリアル](http://railstutorial.jp/chapters/beginning?version=4.2#cha-beginning)
 
+### 読み物
+
+以下、本題とは全く関係ありませんが、参考まで。
+
+- [ReactiveX と「普通のやつらの上を行け」の意外な関係](http://okapies.hateblo.jp/entry/2015/03/23/020507)
+
 ## 第七回 (2015.11.30) 3 コマ
 
 ## 発表準備 1 コマ
