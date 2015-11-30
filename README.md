@@ -1,5 +1,17 @@
 # プログラミング演習講義メモ
 
+## 第八回 (2015.12.01) 2 コマ
+
+来週までですすめられる範囲でチュートリアルをすすめることとします。
+
+- [Rails チュートリアル](http://railstutorial.jp/chapters/beginning?version=4.2#cha-beginning)
+
+### 読み物
+
+以下、本題とは全く関係ありませんが、参考まで。
+
+- [ReactiveX と「普通のやつらの上を行け」の意外な関係](http://okapies.hateblo.jp/entry/2015/03/23/020507)
+
 ## 第七回 (2015.11.30) 3 コマ
 
 ## 発表準備 1 コマ
@@ -12,12 +24,12 @@
 
 ### テーマ
 
-- 6 cloud9 でチュートリアル
-- 5 javascript
-- 4 java
-- 3 vim について
-- 2 javascript
-- 1 coffeescript
+- 6 [cloud9 でチュートリアル](https://github.com/DevelopmentPractice201511/20151125-sample-6)
+- 5 [javascript](https://github.com/DevelopmentPractice201511/20151125-sample-5)
+- 4 [java](https://github.com/DevelopmentPractice201511/20151125-sample-4)
+- 3 [vim について](https://github.com/DevelopmentPractice201511/20151125-sample-3)
+- 2 [javascript](https://github.com/DevelopmentPractice201511/20151125-sample-2)
+- 1 [coffeescript](https://github.com/DevelopmentPractice201511/20151125-sample-1)
 
 ## 第六回 (2015.11.25) 4 コマ
 
